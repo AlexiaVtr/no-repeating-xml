@@ -1,4 +1,4 @@
-# Welcome to the no-repeating-xml repository!
+# Welcome to the no-repeating-xml script!
 
 This repository contains a JavaScript script that prevents global components from being duplicated in WebSphere when adding new libraries. 
 The application replaces .xml names by adding a number to the end to avoid conflicts.
