@@ -18,4 +18,4 @@ npm start
 The application will prompt you to enter the path to the directory containing the .xml files that you want to rename.
 Once you have entered the path, the application will automatically rename the .xml files according to the specified format.
 
-We hope you find this application helpful in managing your WebSphere global components!
+I hope you find this application helpful in managing your WebSphere global components!
